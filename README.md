@@ -1,15 +1,3 @@
 # 🍽️ Smart Menu Planner
 
 A household-ready web app that generates intelligent 3-day meal plans to eliminate monotonous eating. Built with React and designed for daily grocery shopping, it rotates breakfast items (pancakes, omelet, bacon, sausages, etc.) and flexibly combines lunch/dinner proteins (fish, chicken, meat, legumes) with carbs (rice, ugali, chapati, pasta) and vegetables. The smart algorithm tracks meal history to avoid repetition, balances protein vs legume days, and auto-generates categorized shopping lists showing what to buy fresh daily vs what to stock up on. Features individual meal regeneration, modern gradient UI, and zero configuration—just click "Generate New Menu" and start cooking. Perfect for Kenyan households looking to maintain variety in their daily meals without the planning stress.
-
-## 🚀 Quick Start
-```bash
-npm install
-npm run dev
-```
-
-## 📦 Deploy to Vercel
-```bash
-npm install -g vercel
-vercel
-```
